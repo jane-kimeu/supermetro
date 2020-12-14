@@ -1,0 +1,27 @@
+body{
+    background: lightpink;
+}
+.topmenu{
+    background: coral;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.colOne{
+    background: coral;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
